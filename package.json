@@ -1,0 +1,11 @@
+{
+  "name": "films-app",
+  "version": "1.0.0",
+  "description": "\"film app with no framework\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frank",
+  "license": "MIT"
+}
